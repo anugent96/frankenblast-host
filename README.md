@@ -1,7 +1,7 @@
 # FrankenBlast-Host 🚀
 
 [![Python](https://img.shields.io/badge/python-3.10.15-blue.svg)](https://www.python.org/downloads/release/python-31015/)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16953205.svg)](https://doi.org/10.5281/zenodo.16953205)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17555070.svg)](https://doi.org/10.5281/zenodo.17555070)
 
 Code for **rapid transient host association**, **photometry**, and **stellar population modeling**.
 

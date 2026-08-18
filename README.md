@@ -8,7 +8,7 @@ Code for **rapid transient host association**, **photometry**, and **stellar pop
 ## 📖 Citation
 If you use **FrankenBlast**, please cite:
 
-- **Nugent et al. 2025** (FrankenBlast)
+- **Nugent et al. 2026** (FrankenBlast)
   [ADS link](https://ui.adsabs.harvard.edu/abs/2025arXiv250908874N/abstract)
 - **Jones et al. 2024** ([BLAST web application](https://blast.scimma.org/))  
   [ADS link](https://ui.adsabs.harvard.edu/abs/2024arXiv241017322J/abstract)
